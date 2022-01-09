@@ -1,5 +1,7 @@
-# AUDIO SPEECH TO SIGN LANGUAGE CONVERTER
-A web application which takes in live audio speech recording as input, converts it into text and displays the relevant Indian Sign Language animations.
+# AUDIO/TEXT TO SIGN LANGUAGE CONVERTER
+
+An application which takes in live audio speech recording as input, converts it into text and displays the relevant Indian Sign Language animations.
+This system will facilitate communication for millions of deaf and mute people and aid in communicating with people who dont understand sign language.
 
 >- Front-end using HTML,CSS,JavaScript.
 >- Speech recognition using JavaScript Web speech API.
@@ -7,20 +9,14 @@ A web application which takes in live audio speech recording as input, converts 
 >- A 3D animation of a character created
 using Blender 3D tool.
 
-Project Demo Video: https://youtu.be/YiHhD0QGrno
-
-
 ## Prerequisites
 
 >- Python >= 3.7
 >- Browser supports Web Speech API
->- Download all required packages for python script A2SL/views.py
-
 
 ## Installation Guide:
 
 These instructions will get you download the project and running on your local machine for development and testing purposes.
-
 
 ### Instructions
 
